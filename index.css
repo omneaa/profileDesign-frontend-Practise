@@ -72,10 +72,12 @@ padding-bottom: 20px;
   padding-bottom: 5px;
   /* padding-left: 30%; */
    align-content: center;
+   transition: 1s;
    
 
 }
 .links a:hover{
 background-color: hsl(75, 94%, 57%);
 color: black;
+
 }
